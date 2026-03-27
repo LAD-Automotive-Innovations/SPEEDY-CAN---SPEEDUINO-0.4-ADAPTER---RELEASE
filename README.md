@@ -35,3 +35,6 @@ Next revision is the plan too add a 3d printable enclosure.
 
 
 Enjoy! - Automotive Innovations.
+<img width="1065" height="864" alt="Screenshot 2026-03-27 180814" src="https://github.com/user-attachments/assets/14d6604e-0dcc-4c44-b597-b6fe354c863b" />
+<img width="940" height="1032" alt="Screenshot 2026-03-27 180738" src="https://github.com/user-attachments/assets/9958291e-69cc-4ea3-8811-04a653cc640d" />
+<img width="997" height="888" alt="Screenshot 2026-03-27 180905" src="https://github.com/user-attachments/assets/6387b3fb-faa5-4017-8509-7a269087fe22" />
