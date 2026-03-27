@@ -1,0 +1,27 @@
+IMORTANT INFORMATION FOR CODING.
+
+MEGA SERIAL 3 - ESP32 -
+RX - 17
+TX - 16
+
+LAMP MOSFET - ESP32 OUTPUT PINS - 
+LAMP 1 - 14
+LAMP 2 - 13
+LAMP 3 - 21
+LAMP 4 - 22
+LAMP 5 - 27
+LAMP 6 - 26
+LAMP 7 - 25
+LAMP 8 - 33
+
+MCP2515 TO ESP32 - 
+INT - 4
+SCK - 18
+SI - 23
+SO - 19
+CS - 5
+
+Cluster illumination MOSFETs switch to GND1 (not chassis)
+MCP2515 CS has a pull-up to 3V
+MCP2515 INT is pulled up to 3V3 (open-drain interrupt)
+UART Mega TX to ESP RX uses a divider. ESP TX to Mega RX is direct
